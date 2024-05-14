@@ -1,0 +1,14 @@
+<html>
+<head>This is the collection of my Desmos graphs!</head>
+<body>
+  <iframe src="https://www.desmos.com/calculator/aaf9jmgtu1?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  <br>
+  <iframe src="https://www.desmos.com/calculator/f1kfqrye4n?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  <br>
+  <iframe src="https://www.desmos.com/calculator/q0o3hkutvb?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  <br>
+  <iframe src="https://www.desmos.com/calculator/cjttpw8xec?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  <br>
+  <p>More coming soon!</p>
+</body>
+</html>
